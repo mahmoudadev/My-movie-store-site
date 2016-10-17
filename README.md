@@ -6,8 +6,11 @@ you can open it , simply by clicking on movie photo and at once you will see pop
 and the trailer will begin
 
 
-languages :
+# languages :
 
 - Html 
 - Css
 - python 
+
+
+I used classes and inheritance to do that small project , 
